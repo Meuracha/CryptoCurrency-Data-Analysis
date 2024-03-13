@@ -10,5 +10,5 @@
 
 
 ### Visualization
-<img width='200' >![image](https://github.com/Meuracha/CryptoCurrency-Data-Analysis/assets/87271901/e2c8eebb-3a8b-4ad4-a93e-9af1f045e64a)</img>
-<img width='200'>![image](https://github.com/Meuracha/CryptoCurrency-Data-Analysis/assets/87271901/5e8a332e-46aa-4eae-abbe-fc60fa39334e)</img>
+![image](https://github.com/Meuracha/CryptoCurrency-Data-Analysis/assets/87271901/e2c8eebb-3a8b-4ad4-a93e-9af1f045e64a)
+![image](https://github.com/Meuracha/CryptoCurrency-Data-Analysis/assets/87271901/5e8a332e-46aa-4eae-abbe-fc60fa39334e)
