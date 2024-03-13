@@ -7,3 +7,8 @@
 - Create subplots displaying the closing price of cryptocurrencies along with their respective moving averages.
 - Create an area plot for the top cryptocurrencies based on their high prices over time.
 - Create an area plot showing the change in market capitalization of all cryptocurrencies over time.
+
+
+### Visualization
+![image](https://github.com/Meuracha/CryptoCurrency-Data-Analysis/assets/87271901/e2c8eebb-3a8b-4ad4-a93e-9af1f045e64a)
+![image](https://github.com/Meuracha/CryptoCurrency-Data-Analysis/assets/87271901/5e8a332e-46aa-4eae-abbe-fc60fa39334e)
